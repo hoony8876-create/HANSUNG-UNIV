@@ -1,0 +1,12 @@
+{
+  "name": "LEV 필요환기량 계산기",
+  "short_name": "LEV 계산기",
+  "description": "후드 조건에 따른 국소배기장치 필요환기량 참고 계산기",
+  "lang": "ko-KR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#1457d9",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
